@@ -1,0 +1,16 @@
+.md-grid{max-width: initial;}
+
+[data-md-color-scheme="default"]{
+    --md-primary-fg-color: #00c8ff; 
+    --md-accent-fg-color: #93c093;  
+    --md-accent-fg-color--transparent: #00c8ff;
+    --md-accent-bg-color: #93c093; 
+}
+[data-md-color-scheme="slate"]{
+    --md-primary-fg-color: #54397c; 
+    --md-accent-fg-color: #085316;
+    --md-accent-fg-color--transparent:#54397c;
+    --md-accent-bg-color: #085316;
+  
+
+}

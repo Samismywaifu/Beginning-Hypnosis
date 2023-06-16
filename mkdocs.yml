@@ -1,0 +1,34 @@
+site_name: Beginner's Hypnosis Guide
+
+nav: 
+- Start Here: Start.md
+- Early listening Recommendations: ELR.md
+- Additional Resources : AdditionalResources.md
+- Wishlist: Wishlist.md
+- Contact: Contact.md
+  
+
+extra_css:
+  - Stylesheets/extra.css
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: ''
+      accent: ''
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: ''
+      accent: ''
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navagation.instant
+    - navagation.tracking
+    - navagation.tabs
