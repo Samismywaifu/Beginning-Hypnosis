@@ -5,7 +5,7 @@ TBD
 ## Helpful Videos
 TBD
 ## HypnoDB
-[HypnoDB](https://hypnodb.com) has a fairly large list of files and their descriptions. If you're uncertain about a file's contents, or can't find the file description, you can check here and 
+[HypnoDB](https://hypnodb.com) has a fairly large list of files and their descriptions. If you're uncertain about a file's contents, or can't find the file description, you can check here.
 
 ## Temi
 [Temi](https://temi.com) is an audio transcription service that offers a free trial for audio files under 45 minutes.
