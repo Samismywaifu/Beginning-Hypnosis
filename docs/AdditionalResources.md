@@ -4,6 +4,10 @@
 TBD
 ## Helpful Videos
 TBD
+
+## Ad blocker
+[uBlock Origin](https://ublockorigin.com/) very effective ad blocker. A must-have in the modern internet age.
+
 ## HypnoDB
 [HypnoDB](https://hypnodb.com) has a fairly large list of files and their descriptions. If you're uncertain about a file's contents, or can't find the file description, you can check here.
 
@@ -18,3 +22,9 @@ TBD
 
 ## Gone Wild Audio Subreddit
 [The Gone Wild Audio Subreddit](https://www.reddit.com/r/GoneWildAudio/ )is like the Erotic Hypnosis Subreddit, but a bit kinkier. I would say the audios are less geared towards hypnosis though.
+
+## Shibbydex
+[Shibbydex](https://shibbydex.com/) is KinkyShibby's website, she's a pretty prolific content creator on reddit. Her site contains a list of all of her files and descriptions. She covers a broad variety of topics, so it wouldn't hurt to check it out.
+
+## LilithUnleashed
+[LilithUnleashed](https://lilithunleashed.net/) Another content creator who I believe got their start on reddit. She has a very nice voice in my opinion. This site contains info about all of her files.

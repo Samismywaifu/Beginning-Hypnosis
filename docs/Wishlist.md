@@ -8,7 +8,7 @@ Here are some files I'm on the lookout for.
 - Gush: Hands-Free Premature Ejaculation
 - Hands-Free Premature Ejaculation Mesmerization
 - Twitch Streamer: Premature Ejaculation Mesmerizer
-- Rocket: Deep PE and HFO Mind Programming
+- EJECT: Spontaneous Ejaculation Triggering
 - Premie Acceptance Mindfuck: Cum Hands-Free or Else!
 ## Foot Magic
 - Halloween Mesmerization

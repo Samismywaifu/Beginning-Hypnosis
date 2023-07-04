@@ -19,3 +19,8 @@ This series is focused on going into a deep trance.
 
 ## Focused Relaxation
 Fun little videos designed to help you relax into a trance, very safe for beginners. The videos are typically focused around a part of her body or an object. I don't have any specific recommendations for her flies, as they're all good starting points. If you're struggling to pick one to start with, I'd recommend one that has an induction.
+
+## Tessa Fields
+Haven't had a chance to listen to her files yet. No current comments.
+### Tessa Teaches Trance
+Series focused on how to go into trance, focuses on breathing and relaxation.
